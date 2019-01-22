@@ -1,0 +1,5 @@
+package com.cg.helloworldclient.HelloWorldClient.resource;
+
+public class HelloWorldResource {
+
+}

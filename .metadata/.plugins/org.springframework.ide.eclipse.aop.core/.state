@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="EurekaService"/>
+<aop-project name="HelloWorld Service"/>
+<aop-project name="EurekaClient"/>
+</aop-reference-model>

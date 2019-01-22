@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\SpringEurekaApp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1050268381.index
+\HelloWorld Service\src\main\java
+C:\SpringEurekaApp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2188201412.index
+\EurekaClient\src\main\java
+C:\SpringEurekaApp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1830719887.index
+\Website Service\src\main\java

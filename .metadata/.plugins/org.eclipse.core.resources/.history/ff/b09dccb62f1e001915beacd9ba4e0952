@@ -1,0 +1,5 @@
+package com.cg.eurekaclient.EurekaClient.resource;
+
+public class WebsiteService {
+
+}
