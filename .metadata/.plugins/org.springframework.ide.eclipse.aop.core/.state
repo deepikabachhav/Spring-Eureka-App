@@ -2,5 +2,7 @@
 <aop-reference-model>
 <aop-project name="EurekaService"/>
 <aop-project name="HelloWorld Service"/>
+<aop-project name="configuration-client"/>
 <aop-project name="EurekaClient"/>
+<aop-project name="configuration-service"/>
 </aop-reference-model>

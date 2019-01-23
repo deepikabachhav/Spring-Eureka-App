@@ -20,6 +20,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\SpringEurekaApp\SpringConfigurationServer\configuration-client"/>
+			<item value="C:\SpringEurekaApp\SpringConfigurationServer\configuration-service"/>
 			<item value="C:\SpringEurekaApp\HelloWorldClient"/>
 			<item value="C:\SpringEurekaApp\EurekaClient"/>
 			<item value="C:\SpringEurekaApp\EurekaService"/>

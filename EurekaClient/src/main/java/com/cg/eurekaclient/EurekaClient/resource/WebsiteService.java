@@ -28,7 +28,7 @@ public class WebsiteService {
 	 
 	 @RequestMapping("/hello")
 	 public String helloWorld(Model model) {
-		String world= restTmplate.exchange("http://helloworld",HttpMethod.GET,null,new ParameterizedTypeReference<String>() {}).getBody();
+		String world= restTmplate.exchange("http://helloservice",HttpMethod.GET,null,new ParameterizedTypeReference<String>() {}).getBody();
 		model.addAttribute("world",world);
 		return "Hello";
 	 }
